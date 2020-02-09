@@ -5,4 +5,4 @@ Interactive 3D plot is created using plotly library and saved as a html widget.
 
 No analysis is done on the fitted model.
 
-![3D plot showing regression plane](plot3D.html)
+![Screenshot of 3D plot showing regression plane](images/screenshot.png)
